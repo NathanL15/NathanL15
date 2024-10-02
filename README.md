@@ -1,6 +1,8 @@
 ## hi, im nathan
 
-### feel free to roam around
+#### feel free to roam around
+
+#### contact me here n22lu@uwaterloo.ca or https://www.linkedin.com/in/nathan-lu-/
 
 <!--
 **NathanL15/NathanL15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
