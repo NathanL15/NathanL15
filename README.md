@@ -5,8 +5,9 @@
 #### feel free to roam around and take a gander.
 
 
-[![Email](https://img.shields.io/badge/email-n22lu@uwaterloo.ca-58A6FF?style=flat&logo=gmail&logoColor=white)](mailto:n22lu@uwaterloo.ca)
-[![LinkedIn](https://img.shields.io/badge/linkedin-nathan--lu---%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-lu-/)
+#### find me here:  
+📧 **[n22lu@uwaterloo.ca](mailto:n22lu@uwaterloo.ca)**  
+🔗 **[linkedin.com/in/nathan-lu-](https://www.linkedin.com/in/nathan-lu-/)**
 
 
 ---
