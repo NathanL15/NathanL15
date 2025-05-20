@@ -4,7 +4,6 @@
 
 #### feel free to roam around and take a gander.
 
-
 #### find me here:  
 ✉️ **[n22lu@uwaterloo.ca](mailto:n22lu@uwaterloo.ca)**  
 🔗 **[linkedin.com/in/nathan-lu-](https://www.linkedin.com/in/nathan-lu-/)**
