@@ -4,11 +4,4 @@
 
 #### feel free to roam around and take a gander.
 
-#### find me here:  
-✉️ **[n22lu@uwaterloo.ca](mailto:n22lu@uwaterloo.ca)**  
-🔗 **[linkedin.com/in/nathan-lu-](https://www.linkedin.com/in/nathan-lu-/)**
-
----
-### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NathanL15&theme=dark&hide_border=true)](https://git.io/streak-stats)
----
+#### you can reach out to me here at n22lu@uwaterloo.ca!
