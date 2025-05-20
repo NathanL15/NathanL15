@@ -1,4 +1,4 @@
-## hi, i'm nathan
+# hi, i'm nathan
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=false&vCenter=true&width=435&lines=engineering+@+UWaterloo.;data+science+%7C+ml+%7C+software+dev.;currently+building+cool+things." alt="Typing SVG" />
 
