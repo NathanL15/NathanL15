@@ -9,6 +9,6 @@
 🔗 **[linkedin.com/in/nathan-lu-](https://www.linkedin.com/in/nathan-lu-/)**
 
 ---
-#### 📊 GitHub Stats
+### 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NathanL15&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ---
